@@ -1,6 +1,6 @@
-* Last name:
-* First name:
-* Github username:
+* Last name: Wong
+* First name: Tiffany
+* Github username: twong-cs
 
 * Instructions:
 
